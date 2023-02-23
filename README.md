@@ -1,8 +1,6 @@
 ### Eai, bão?
 
 <div style="display: inline_block" align="start">
-  
-  <br />
   <img
     align="center"
     height="30"
