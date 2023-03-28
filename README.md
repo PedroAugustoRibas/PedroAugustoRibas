@@ -28,11 +28,11 @@
 <div align="start">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=PedroAugustoRibas&show_icons=true&theme=tokyonight&count_private=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api?username=PedroAugustoRibas&show_icons=true&theme=chartreuse-dark&count_private=true&layout=compact"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugustoRibas&langs_count=8&count_private=true&theme=tokyonight&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugustoRibas&langs_count=8&count_private=true&theme=chartreuse-dark&layout=compact"
   />
 </div>
 <br />
