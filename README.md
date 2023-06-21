@@ -33,7 +33,7 @@
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugustoRibas&langs_count=8&count_private=true&theme=chartreuse-dark&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAugustoRibas&langs_count=8&count_private=true&theme=radical&layout=compact"
   />
 </div>
 <br />
