@@ -2,7 +2,7 @@
 
 <div style="display: inline_block" align="start">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,php,python,html,css,vue,graphql,nuxtjs,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css,vue,graphql,nuxtjs,docker)](https://skillicons.dev)
 </div>
 
 <br />
